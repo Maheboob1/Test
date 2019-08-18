@@ -5,4 +5,4 @@ for i in a:
         b.append(i)
 print(set(sorted(b)))
 
-#complete
+#complete program

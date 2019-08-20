@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Maheboob1/practice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Maheboob1/Login_Test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Ifra Fatimah\PycharmProjects" />
